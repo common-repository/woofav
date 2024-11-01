@@ -1,0 +1,16 @@
+#woofavTable tr:nth-child(odd) {
+
+	}/*	#e1e1e1*/
+	#woofavTable tr td {
+		width: 150px;
+		text-align: center;
+	}
+	th.header { 
+		cursor: pointer; 
+		font-weight: bold; 
+		background-repeat: no-repeat; 
+		background-position: center left;
+		padding: 10px; 
+		padding-left: 20px; 
+		margin-left: -1px; 
+	}

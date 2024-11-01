@@ -1,0 +1,62 @@
+# Translation of Development (trunk) in Persian
+# This file is distributed under the same license as the Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: +0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Development (trunk)\n"
+
+#. Author of the plugin/theme
+msgid "MiSaCo.ir"
+msgstr ""
+
+#: custom-page-template.php:59
+msgid "my Favorite Products"
+msgstr ""
+
+#: custom-page-template.php:63
+msgid "image"
+msgstr ""
+
+#: custom-page-template.php:64
+msgid "Product"
+msgstr ""
+
+#: custom-page-template.php:65
+msgid "date"
+msgstr ""
+
+#: custom-page-template.php:66
+msgid "Woofav/disWoofav"
+msgstr ""
+
+#: inc/show_data.php:145
+msgid "Choose the Color for show in woofav"
+msgstr ""
+
+#: inc/show_data.php:226
+msgid "get fav icon"
+msgstr ""
+
+#: inc/wp_menu.php:15
+msgid "woofav"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WooFav"
+msgstr ""
+
+#. #-#-#-#-#  tmp-woofav.pot (WooFav 0.2.5)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  tmp-woofav.pot (WooFav 0.2.5)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://www.misaco.ir"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Favorite Posts by users in Woocommwece"
+msgstr ""
